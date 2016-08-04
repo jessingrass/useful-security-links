@@ -19,9 +19,9 @@ to choose tools and methodologies was a great help</p>
 <p> Once you decide you should have security, the huge question of what you should do looms large. I recommend looking to <a href=https://www.owasp.org/index.php/Main_Page>OWASP</a> 
 -- there are so many tools available and it is worth taking the time to research and decide what fits your organization. Since OWASP is tool agnositc
 and open source, it is easy to implement flexibly. In deciding what to analyze and how, I took the following documents:
-<a href= https://www.owasp.org/index.php/OWASP_Testing_Project> OWASP Testing Project v.4</a>
-<a href= https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project> OWASP Application Security Verification Standard Project </a>
-<a href= https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide> OWASP Secure Coding Practice Quick Reference </a>
+<br><a href= https://www.owasp.org/index.php/OWASP_Testing_Project> OWASP Testing Project v.4</a>
+<br><a href= https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project> OWASP Application Security Verification Standard Project </a>
+<br><a href= https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide> OWASP Secure Coding Practice Quick Reference </a>
 
 The Testing Project offers a thorough plan with checklists and examples of the kinds of tests and responses one would expect to see as they are 
 testing their application. The Application Security Verification Standard is more specific, an effort by the OWASP community to create standards for 
@@ -37,7 +37,9 @@ concerns, needs, current practices, and potential future practices. </p>
 you want to evaluate, implementing test strategy and plans is then helpful, as the effort can be targeted. For the testing effort, it really depends
 on what you want to implement, and how far down the rabbit hole you decide to go. The tools I have chosen are helpful for guiding vulnerability assessments,
 internal penetration testing efforts, and automated daily security scans.
+<br>
 <a href=https://www.owasp.org/index.php/OWASP_OWTF> OWASP Offensive Web Testing Framework</a>
+<br>
 <a href=https://www.owasp.org/index.php/ZAP> OWASP ZAP </a>
 
 The Offensive Web Testing Framework (OWTF) is designed to run with Kali Linux while penetration tests are being conducted. The tool aids testers
