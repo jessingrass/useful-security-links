@@ -4,7 +4,7 @@ I have used all open-source tools, and they are licensed under the Creative Comm
 
 
 <h2> Structuring The Process </h2>
-<p>I started with looking at existing models for implementing a security system from the ground up. Caveat: a profeissonal security scan should be a part of every business model!
+<p>I started with looking at existing models for implementing a security system from the ground up. Caveat: a professional security scan should be a part of every business model!
 However, if you are not able to do the scan, or want to improve accountability, then it is not a bad idea, in my opinion, to investigate the structures and tools
 to build out internal security</p>
 
